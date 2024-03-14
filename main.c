@@ -1,5 +1,5 @@
 
-
+void sort(int arr[]);
 int main(){
 
 int x =10;
