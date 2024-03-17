@@ -1,0 +1,1 @@
+#define SET_BIT(x,y)		(x|(1<y))
